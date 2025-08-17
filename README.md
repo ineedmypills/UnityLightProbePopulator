@@ -15,7 +15,11 @@ If you're more familiar with Unreal Engine, this package is roughly what the Lig
 ![packman](images/packman.png)
 
 ### Install process
-This is a plugin that makes use of Unity's new *Package Manager* feature. Just drop the *com.alexismorin.lightprobepopulator* folder into your *packages* folder (found at the same level as your Assets folder) and it should work out-of-the-box. If you're using an older version of Unity, navigate inside the *com.alexismorin.lightprobepopulator* folder and then just drag the *Editor* folder you find there anywhere in your project hierarchy.
+This package can be installed using the Unity Package Manager.
+
+1.  Open the Package Manager in `Window > Package Manager`.
+2.  Click the `+` button in the top left corner and select `Add package from git URL...`.
+3.  Enter the git URL of this repository and click `Add`.
 
 ![footer](images/options.png)
 

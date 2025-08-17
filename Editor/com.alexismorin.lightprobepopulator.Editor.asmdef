@@ -1,5 +1,5 @@
 {
-    "name": "package",
+    "name": "com.alexismorin.lightprobepopulator.Editor",
     "references": [],
     "optionalUnityReferences": [],
     "includePlatforms": [
